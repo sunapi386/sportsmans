@@ -1,0 +1,102 @@
+[
+ {
+  "class": "displayed-price",
+  "tag": "div",
+  "text": "$1,899.99"
+ },
+ {
+  "class": "displayed-price",
+  "tag": "div",
+  "text": "$2,049.99"
+ },
+ {
+  "class": "displayed-price",
+  "tag": "div",
+  "text": "$2,049.99"
+ },
+ {
+  "class": "displayed-price",
+  "tag": "div",
+  "text": "$2,049.99"
+ },
+ {
+  "class": "displayed-price",
+  "tag": "div",
+  "text": "$2,049.99"
+ },
+ {
+  "class": "displayed-price",
+  "tag": "div",
+  "text": "$1,649.99"
+ },
+ {
+  "class": "displayed-price",
+  "tag": "div",
+  "text": "$1,699.99"
+ },
+ {
+  "class": "displayed-price",
+  "tag": "div",
+  "text": "$1,599.99"
+ },
+ {
+  "class": "displayed-price",
+  "tag": "div",
+  "text": "$1,849.99"
+ },
+ {
+  "class": "displayed-price",
+  "tag": "div",
+  "text": "$1,599.99"
+ },
+ {
+  "class": "displayed-price",
+  "tag": "div",
+  "text": "$1,999.99"
+ },
+ {
+  "class": "displayed-price",
+  "tag": "div",
+  "text": "$2,199.99"
+ },
+ {
+  "class": "displayed-price",
+  "tag": "div",
+  "text": "$1,549.99"
+ },
+ {
+  "class": "displayed-price",
+  "tag": "div",
+  "text": "$1,499.99"
+ },
+ {
+  "class": "displayed-price",
+  "tag": "div",
+  "text": "$1,399.99"
+ },
+ {
+  "class": "displayed-price",
+  "tag": "div",
+  "text": "$1,699.99"
+ },
+ {
+  "class": "displayed-price",
+  "tag": "div",
+  "text": "$1,699.99"
+ },
+ {
+  "class": "displayed-price",
+  "tag": "div",
+  "text": "$2,299.99"
+ },
+ {
+  "class": "displayed-price",
+  "tag": "div",
+  "text": "$1,799.99"
+ },
+ {
+  "class": "displayed-price",
+  "tag": "div",
+  "text": "$1,849.99"
+ }
+]

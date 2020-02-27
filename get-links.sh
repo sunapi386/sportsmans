@@ -1,0 +1,1 @@
+cat index.html | pup 'nav' | pup 'li a json{}' | jq '.[] | {title,href}'
